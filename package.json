@@ -1,8 +1,12 @@
 {
   "name": "data2excel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a script helping the front end to convert the data into Excel.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuqixuan/data2excel"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
